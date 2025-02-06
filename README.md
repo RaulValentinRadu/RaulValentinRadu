@@ -1,6 +1,6 @@
 ## Hello world 🌍
 
--*Actualmente estoy trabajando como Desarrollador Backend para Luca Tic*
+*Actualmente estoy trabajando como Desarrollador Backend para Luca Tic*
 
 ## Entre mis habilidades destacan: 
 - Desarrollo Java 
