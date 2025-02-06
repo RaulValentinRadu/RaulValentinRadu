@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello world 🌍
 
-<!--
-**RaulValentinRadu/RaulValentinRadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## - Actualmente estoy trabajando como Desarrollador Backend para Luca Tic ! 
 
-Here are some ideas to get you started:
+## Entre mis habilidades destacan: 
+- Desarrollo Java 
+- SpringBoot 3.4
+- Buen manejo de Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Algunos de mis proyectos son:
+[TFG - Vibely - Red Social]([https://www.example.com](https://github.com/VIBELY-SN))
+[Microservices - SpringBoot](https://github.com/AngelZhang159/LucaTicket)
+
+
