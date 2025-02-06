@@ -8,7 +8,7 @@
 - Buen manejo de Linux
 
 ## Algunos de mis proyectos son:
-[TFG - Vibely - Red Social]((https://github.com/VIBELY-SN))
-[Microservices - SpringBoot]((https://github.com/AngelZhang159/LucaTicket))
+- [TFG DAW Red Social Vibely](https://github.com/VIBELY-SN)
+- [Microservicios - SpringBoot 3.4 - LucaTicket](https://github.com/AngelZhang159/LucaTicket)
 
 
